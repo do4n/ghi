@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ghi/static/css/main.31d6cfe0.css",
+    "main.js": "/ghi/static/js/main.37148a22.js",
+    "static/js/453.560a5a72.chunk.js": "/ghi/static/js/453.560a5a72.chunk.js",
+    "index.html": "/ghi/index.html",
+    "main.37148a22.js.map": "/ghi/static/js/main.37148a22.js.map",
+    "453.560a5a72.chunk.js.map": "/ghi/static/js/453.560a5a72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.37148a22.js"
+  ]
+}
